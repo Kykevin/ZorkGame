@@ -16,6 +16,7 @@ attack dragon with sword
 drop sword
 n
 n
+open bottle
 take axe
 s
 drop axe
